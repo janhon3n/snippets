@@ -16,7 +16,7 @@
 			"\t})",
 			"",
 			"\tconst getShallow = customProps => {",
-			"\t\treturn shallow(<LifelineEvent {...defaultProps} {...customProps} />)",
+			"\t\treturn shallow(<$1 {...defaultProps} {...customProps} />)",
 			"\t}",
 			"",
 			"\tit('renders without crashing', () => {",
